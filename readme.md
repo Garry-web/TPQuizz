@@ -2,6 +2,6 @@
 
 07/04/2021 Création des deux Branche Viramat et Garry
 
-08/04/2021 Ajout des class 
+08/04/2021 Ajout des classes 
 
-20/04/2021 Ajout de differents classes
+20/04/2021 Ajout de differentes classes + quelque fonctions
