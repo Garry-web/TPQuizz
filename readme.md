@@ -5,3 +5,5 @@
 08/04/2021 Ajout des classes 
 
 20/04/2021 Ajout de differentes classes + quelque fonctions
+
+06/05/2021 Ajout de fonction + fusion des branches
