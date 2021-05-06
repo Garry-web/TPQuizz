@@ -26,6 +26,7 @@
             $this->idQuestion = $idQ;
             $this->question = $LaQuestion["question"];
         }
+        
     }
     public function getQuestion(){
         return $this->question;

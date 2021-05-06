@@ -19,7 +19,6 @@
       $this->reponse = $LaReponse["reponse"];
       $this->vrai = $LaReponse["vrai"];
 
-
     }
   }
 }

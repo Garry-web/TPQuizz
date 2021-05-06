@@ -20,20 +20,35 @@
         $this->reponsessecret = $rs
     }
 
-    public function getIdentifiant()
-    {
 
+    public function getIdentifiant($Identifiant)
+    {
         return $this->identifiant;
     }
-
-
     public function setIdentifiant($newIdentifiant)
     {
         $this->identifiant = $newUsername;
     }
 
+
+    public function getPassword($Password)
+    {
+        $this->password = $Password;
+    }
     public function setPassword($newPassword)
     {
         $this->password = $newPassword;
+    }
+
+
+    public function getQuestionsecret($Questionsecret)
+    {
+        $this->questionsecret = $Questionsecret;
+    }
+
+
+    public function getReponsesecret($Reponsesecret)
+    {
+        $this->reponsesecret = $Reponsesecret;
     }
 }

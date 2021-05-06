@@ -1,3 +1,6 @@
+<?php
+require_once "entete.php";
+?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -6,28 +9,30 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="style.css"/>
-    <title>Quizz culture général et anecdote insolite</title>
+    <title>Quizz culture général et anécdote insolite</title>
 </head>
 <body>
 
+<div id="imgfond">
+</div>
+
 <div id="menu">
-    <h1>Culture Général et Anecdote Insolite</h1>
 </div>
 
+<div id="titre3">
+        <p>Quizz !</p>
+    </div>
 
-<div id="imgcool">
-    <img src="image/cool.png"/>
+<div id="conteneurb">
+
+    <p><a href="quizz.php">
+    Quizz 1 (Musique)
+  </a></p>
+
 </div>
-
-
-<div id="conteneura">
-    <h2>Nos Quizz !</h2>
-</div>
-
 
 <div id="footer">
 </div>
 
 </body>
 </html>
-
